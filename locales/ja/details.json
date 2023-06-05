@@ -1,0 +1,102 @@
+{
+    "AvailableUnits_title": "空きトランクルーム",
+    "AvailableUnits_priceButton": "値段を表示",
+    "AvailableUnits_grey2": "搬入日",
+    "AvailableUnits_changeDate": "日付を変更する",
+
+    "Description_readMore": "続きを読む",
+    "Description_showLess": "表示を減らす",
+
+    "Size_availability": "こちらのトランクルームは＿＿＿＿＿までご利用が可能です。",
+
+    "SpaceSelector_body1": "必要な広さの概算のお手伝いは要りますか？",
+    "SpaceSelector_h3": "トランクルーム",
+    "SpaceSelector_body2": "前回の広さを条件に検索しています。条件の変更はこちらの項目でお願いします",
+    "SpaceSelector_typography1": "場所を選択して値段を確認してください。",
+    "SpaceSelector_typography2": "必要な大きさが明確でない場合の概算はこちらで。",
+    "SpaceSelector_typography3": "搬入日を選択して値段を確認してください。",
+    "SpaceSelector_or": "もしくは",
+
+    "Filters_soldout": "空きスペース無し",
+    "Filters_locker": "＊大きさが多少異なることがあります",
+
+    "SoldOut_error": "ちょうど取られた！",
+    "SoldOut_grey2": "最後のスペースが",
+
+    "SpaceDetails_title": "あなたの選択",
+
+    "BreadCrumbs_search": "検索",
+    "BreadCrumbs_storage": "収納",
+    "BreadCrumbs_secondTypography": "特集物件",
+    "BreadCrumbs_whiteTypography": "人気物件",
+
+    "HowItWorks_h2": "申し込み手順",
+
+    "Items_find": "探す",
+    "Items_findDesc": "近くの物件を検索する",
+    "Items_book": "予約する",
+    "Items_bookDesc": "適切なスペース検索の為に、メッセージにてお問い合わせください。",
+    "Items_move": "搬入する",
+    "Items_moveDesc": "搬入日をオーナーと相談して収納を開始する。",
+
+    "OneItem_grey3Typography": "ステップ",
+
+    "Map_typography": "所在地",
+
+    "MobileStickyBookWidget_primaryButton1": "いま予約する",
+    "MobileStickyBookWidget_secondaryButton1": "今すぐお問い合わせ",
+    "MobileStickyBookWidget_primaryButton2": "見積もりをもらう",
+    "MobileStickyBookWidget_primaryButton3": "大きさを選択する",
+    "MobileStickyBookWidget_primaryButton4": "予約に進む",
+    "MobileStickyBookWidget_typography4": "月",
+    "MobileStickyBookWidget_typography6": "まだ請求はされません。",
+    "MobileStickyBookWidget_unitDetails": "トランクルームの大きさを見る",
+
+    "MobilePromotion_typography1": "プロモーションあります！",
+
+    "Rating_typography": "評価を見る",
+
+    "Reviews_typography1": "全体評価",
+    "Reviews_typography2": "評価",
+    "Reviews_typography3": "＿＿により承認",
+    "Reviews_reviews": "評価",
+    "Reviews_googleReviews": "グーグル評価",
+
+    "SimilarStorages_title": "類似物件",
+
+    "SiteAmenities_title": "施設設備",
+
+    "StickyBookWidget_typography1": "場所を選択して値段を確認してください。",
+    "StickyBookWidget_typography2": "必要な大きさが明確でない場合の大きさと値段の概算はこちらで。",
+    "StickyBookWidget_typography3": "搬入日を選択して値段を確認してください。",
+    "StickyBookWidget_typography4": "Average monthly price",
+    "StickyBookWidget_typography5": "部屋目面積",
+    "StickyBookWidget_period": "{{promotion_period}}",
+    "StickyBookWidget_months": "months",
+    "StickyBookWidget_year": "year",
+    "StickyBookWidget_or": "もしくは",
+    "StickyBookWidget_primaryButton1": "いま予約する",
+    "StickyBookWidget_secondaryButton1": "今すぐお問い合わせ",
+    "StickyBookWidget_primaryButton2": "見積もりをもらう",
+    "StickyBookWidget_primaryButton3": "S大きさを選択する",
+    "StickyBookWidget_primaryButton4": "予約に進む",
+    "StickyBookWidget_typography6": "まだ請求はされません。",
+    "StickyBookWidget_unitDetails": "トランクルームサイズの画像をクリックして詳細を見る",
+
+    "SpaceTypeDetails_typography1": "から",
+    "SpaceTypeDetails_typography2": "月",
+    "SpaceTypeDetails_ok": "OK",
+    "SpaceTypeDetails_select": "選択する",
+    "SpaceTypeDetails_locker": "＊大きさが多少異なることがあります",
+
+    "Promotion_typography1": "{{count}} プロモーションあります！",
+
+    "Details_title": "{{site}} トランクルームのオプション",
+
+    "QuotationDialog_typography1": "こちらの特典が精算に適用されます。",
+    "QuotationDialog_typography2": "おめでとうございます！さらに15％の割引がされます。",
+    "QuotationDialog_typography3": "プロモーションコードはチェックアウトプロセスに適用されます。 最初の月の予約で15％の割引が受けられます。 この価格を取得するには、今すぐ予約してください。",
+    "QuotationDialog_primaryButton": "はい",
+    "QuotationAlert_typography1": "精算時に15％の割引が適用されます。",
+    "QuotationAlert_typography2": "このオファーは期間限定で有効です。 今すぐ予約して保存してください！"
+}

@@ -1,0 +1,24 @@
+{
+	"presets": [
+		"es2015",
+		"stage-3",
+		"react"
+	],
+	"plugins": [
+		"add-module-exports",
+		[
+			"styled-jsx/babel",
+			{
+				"plugins": [
+					"styled-jsx-plugin-postcss"
+				]
+			}
+		],
+		[
+			"transform-react-remove-prop-types",
+			{
+				"mode": "wrap"
+			}
+		]
+	]
+}
